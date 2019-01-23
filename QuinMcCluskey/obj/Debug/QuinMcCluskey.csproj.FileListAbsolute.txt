@@ -1,0 +1,13 @@
+E:\Project\C#Project\QuinMcCluskey\QuinMcCluskey\bin\Debug\QuinMcCluskey.exe.config
+E:\Project\C#Project\QuinMcCluskey\QuinMcCluskey\bin\Debug\QuinMcCluskey.exe
+E:\Project\C#Project\QuinMcCluskey\QuinMcCluskey\bin\Debug\QuinMcCluskey.pdb
+E:\Project\C#Project\QuinMcCluskey\QuinMcCluskey\obj\Debug\QuinMcCluskey.csprojResolveAssemblyReference.cache
+E:\Project\C#Project\QuinMcCluskey\QuinMcCluskey\obj\Debug\QuinMcCluskey.exe
+E:\Project\C#Project\QuinMcCluskey\QuinMcCluskey\obj\Debug\QuinMcCluskey.pdb
+C:\Users\Mert\Desktop\BasicCsharpProject-master\QuinMcCluskey\QuinMcCluskey\bin\Debug\QuinMcCluskey.exe.config
+C:\Users\Mert\Desktop\BasicCsharpProject-master\QuinMcCluskey\QuinMcCluskey\bin\Debug\QuinMcCluskey.exe
+C:\Users\Mert\Desktop\BasicCsharpProject-master\QuinMcCluskey\QuinMcCluskey\bin\Debug\QuinMcCluskey.pdb
+C:\Users\Mert\Desktop\BasicCsharpProject-master\QuinMcCluskey\QuinMcCluskey\obj\Debug\QuinMcCluskey.csprojAssemblyReference.cache
+C:\Users\Mert\Desktop\BasicCsharpProject-master\QuinMcCluskey\QuinMcCluskey\obj\Debug\QuinMcCluskey.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\BasicCsharpProject-master\QuinMcCluskey\QuinMcCluskey\obj\Debug\QuinMcCluskey.exe
+C:\Users\Mert\Desktop\BasicCsharpProject-master\QuinMcCluskey\QuinMcCluskey\obj\Debug\QuinMcCluskey.pdb
